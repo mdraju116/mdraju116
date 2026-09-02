@@ -1,23 +1,23 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Md%20Raju%20Ahammed&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Full-Stack%20Web%20Developer&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Md.%20Raju%20Ahammed&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Full-Stack%20Web%20Developer&descAlignY=55&descSize=20" width="100%" />
 </p>
 
 ---
 # 👋 Hi, I'm Md. Raju Ahammed
-
+### 🔭 I build things with JavaScript, React, and Node.js
 
 
 ## 👨‍💻 About Me
 
-I'm **Md Raju**, a Computer Science and Engineering graduate from **Dhaka University of Engineering & Technology (DUET)** with a strong passion for software development.
+I'm **Md. Raju Ahammed**, a Computer Science and Engineering graduate from **Dhaka University of Engineering & Technology (DUET)** with a strong passion for software development.
 
 I'm currently focused on **AI-driven Full-Stack Web Development**, building my skills in modern frontend and backend technologies and working on practical projects to improve my development experience.
 
 * 🎓 CSE Graduate from DUET
 * 💻 Currently learning **AI Full-Stack Web Development**
-* 🌱 Exploring **React, TypeScript, Node.js and Next.js**
+* 🌱 Exploring **React, TypeScript, Node.js, and Next.js**
 * 🚀 Building responsive and user-friendly web applications
 * 📚 Continuously improving my problem-solving and programming skills
 * 🔍 Interested in modern web technologies and AI-powered applications
@@ -56,10 +56,10 @@ I'm currently focused on **AI-driven Full-Stack Web Development**, building my s
 
 ## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mdraju116)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/mdraju_116)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:raju204116@gmail.com)
 
 ---
 
