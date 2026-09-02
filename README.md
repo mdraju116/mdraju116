@@ -2,21 +2,23 @@
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Md.%20Raju%20Ahammed&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Full-Stack%20Web%20Developer&descAlignY=55&descSize=20" width="100%" /> </p>
 
-👋 Hi, I'm Md. Raju Ahammed
-💻 AI Full-Stack Web Developer
+# Hi 👋, I'm Md. Raju Ahammed  
+### 🔭 AI Full-Stack Web Developer
+
 
 I'm a Computer Science and Engineering graduate from Dhaka University of Engineering & Technology (DUET) with a strong passion for software development.
 
 I'm currently focused on AI-driven Full-Stack Web Development, building modern web applications and continuously improving my skills in frontend, backend, and AI-powered technologies.
 
-👨‍💻 About Me
-🎓 CSE Graduate from Dhaka University of Engineering & Technology (DUET)
-💻 Currently learning AI Full-Stack Web Development
-🌱 Exploring React, TypeScript, Node.js, and Next.js
-🚀 Building responsive and user-friendly web applications
-📚 Continuously improving my programming and problem-solving skills
-🤖 Interested in AI-powered applications and modern web technologies
-🔍 Exploring new tools, frameworks, and development practices
+## 👨‍💻 About Me  
+
+- 🎓 CSE Graduate from Dhaka University of Engineering & Technology (DUET)
+- 💻 Currently learning AI Full-Stack Web Development
+- 🌱 Exploring React, TypeScript, Node.js, and Next.js
+- 🚀 Building responsive and user-friendly web applications
+- 📚 Continuously improving my programming and problem-solving skills
+- 🤖 Interested in AI-powered applications and modern web technologies
+- 🔍 Exploring new tools, frameworks, and development practices
 
 
 
@@ -45,18 +47,19 @@ I'm currently focused on AI-driven Full-Stack Web Development, building modern w
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mdraju116)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/mdraju_116)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:raju204116@gmail.com)
 
 ---
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-streak-stats.demolab.com?user=mdraju116&theme=default&hide_border=true" height="180" /> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com?user=mdraju116" alt="GitHub Streak" />
+</p>
 
-📈 GitHub Activity
-
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdraju116&theme=default" width="100%" /> </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdraju116&theme=minimal" alt="GitHub Activity Graph" width="100%" />
+</p>
 
 👀 Profile Views
 
