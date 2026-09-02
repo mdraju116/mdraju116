@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Md. Raju Ahammed - AI Full-Stack Web Developer" />
+  <img src="./banner.png" width="100%" alt="Md. Raju Ahammed - AI Full-Stack Web Developer" />
 </p>
 
 
