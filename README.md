@@ -6,19 +6,20 @@
 
 
 
-# Hi 👋, I'm Md. Raju Ahammed  
-### 🔭 AI Full-Stack Web Developer
+<h1 align="center">Hi 👋, I'm Md. Raju Ahammed</h1>
+
+<h3 align="center"> AI Full-Stack Web Developer</h3>
 
 
 ## 👨‍💻 About Me  
 
-- 🎓 CSE Graduate from DUET
-- 💻 Learning AI Full-Stack Web Development
-- 🌱 Exploring React, TypeScript, Node.js, and Next.js
-- 🚀 Building responsive and user-friendly web applications
-- 📚 Continuously improving my programming and problem-solving skills
-- 🤖 Interested in AI-powered applications and modern web technologies
-- 🔍 Exploring new tools, frameworks, and development practices
+-  CSE Graduate from DUET
+-  Learning AI Full-Stack Web Development
+-  Exploring React, TypeScript, Node.js, and Next.js
+-  Building responsive and user-friendly web applications
+-  Continuously improving my programming and problem-solving skills
+-  Interested in AI-powered applications and modern web technologies
+-  Exploring new tools, frameworks, and development practices
 
 
 
