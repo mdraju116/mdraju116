@@ -22,7 +22,8 @@ I'm currently focused on **AI-driven Full-Stack Web Development**, building my s
 * 📚 Continuously improving my problem-solving and programming skills
 * 🔍 Interested in modern web technologies and AI-powered applications
 
----
+
+
 
 
 
@@ -60,11 +61,11 @@ I'm currently focused on **AI-driven Full-Stack Web Development**, building my s
 
 | GitHub Stats | Most Used Languages |
 | :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdraju116&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdraju116&layout=compact&theme=default) |
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=mdraju116&style=flat-square)
 
 
 
