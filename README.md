@@ -1,29 +1,22 @@
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Md.%20Raju%20Ahammed&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Full-Stack%20Web%20Developer&descAlignY=55&descSize=20" width="100%" />
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Md.%20Raju%20Ahammed&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Full-Stack%20Web%20Developer&descAlignY=55&descSize=20" width="100%" /> </p>
 
----
-# 👋 Hi, I'm Md. Raju Ahammed
-### 🔭 I build things with JavaScript, React, and Node.js
+👋 Hi, I'm Md. Raju Ahammed
+💻 AI Full-Stack Web Developer
 
+I'm a Computer Science and Engineering graduate from Dhaka University of Engineering & Technology (DUET) with a strong passion for software development.
 
-## 👨‍💻 About Me
+I'm currently focused on AI-driven Full-Stack Web Development, building modern web applications and continuously improving my skills in frontend, backend, and AI-powered technologies.
 
-I'm **Md. Raju Ahammed**, a Computer Science and Engineering graduate from **Dhaka University of Engineering & Technology (DUET)** with a strong passion for software development.
-
-I'm currently focused on **AI-driven Full-Stack Web Development**, building my skills in modern frontend and backend technologies and working on practical projects to improve my development experience.
-
-* 🎓 CSE Graduate from DUET
-* 💻 Currently learning **AI Full-Stack Web Development**
-* 🌱 Exploring **React, TypeScript, Node.js, and Next.js**
-* 🚀 Building responsive and user-friendly web applications
-* 📚 Continuously improving my problem-solving and programming skills
-* 🔍 Interested in modern web technologies and AI-powered applications
-
-
-
+👨‍💻 About Me
+🎓 CSE Graduate from Dhaka University of Engineering & Technology (DUET)
+💻 Currently learning AI Full-Stack Web Development
+🌱 Exploring React, TypeScript, Node.js, and Next.js
+🚀 Building responsive and user-friendly web applications
+📚 Continuously improving my programming and problem-solving skills
+🤖 Interested in AI-powered applications and modern web technologies
+🔍 Exploring new tools, frameworks, and development practices
 
 
 
@@ -57,24 +50,18 @@ I'm currently focused on **AI-driven Full-Stack Web Development**, building my s
 
 ---
 
-## 📊 GitHub Stats  
+📊 GitHub Stats
 
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdraju116&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdraju116&layout=compact&theme=default) |
+<p align="center"> <img src="https://github-readme-streak-stats.demolab.com?user=mdraju116&theme=default&hide_border=true" height="180" /> </p>
 
----
+📈 GitHub Activity
 
-![Profile views](https://komarev.com/ghpvc/?username=mdraju116&style=flat-square)
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdraju116&theme=default" width="100%" /> </p>
 
+👀 Profile Views
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mdraju116&style=flat-square" alt="Profile Views" /> </p>
 
-## 💡 Quote
+<p align="center"> <i>Build • Learn • Break • Fix • Repeat</i> </p>
 
-<p align="center">
-  <i>"The best way to learn programming is to build, break, fix, and build again."</i>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile! ⭐
-</p>
+<p align="center"> ⭐ Thanks for visiting my profile! ⭐ </p>
