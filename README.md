@@ -53,15 +53,13 @@ I'm currently focused on AI-driven Full-Stack Web Development, building modern w
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=mdraju116" alt="GitHub Streak" />
-</p>
+<p align="center"> <img src="https://github-readme-streak-stats.demolab.com?user=mdraju116&theme=default&hide_border=true" height="180" /> </p>
+ 
+## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdraju116&theme=minimal" alt="GitHub Activity Graph" width="100%" />
-</p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdraju116&theme=default" width="100%" /> </p>
 
-👀 Profile Views
+## 👀 Profile Views
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mdraju116&style=flat-square" alt="Profile Views" /> </p>
 
