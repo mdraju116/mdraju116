@@ -48,12 +48,11 @@
 
 
 ## 📊 GitHub Stats
-
-<p align="center"> <img src="https://github-readme-streak-stats.demolab.com?user=mdraju116&theme=default&hide_border=true" height="180" /> </p>
- 
-## 📈 GitHub Activity
-
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdraju116&theme=default" width="100%" /> </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mdraju116&theme=default&hide_border=true" height="180" />
+</p>
 
 ## 👀 Profile Views
 
