@@ -1,6 +1,10 @@
 
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Md.%20Raju%20Ahammed&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Full-Stack%20Web%20Developer&descAlignY=55&descSize=20" width="100%" /> </p>
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="Md. Raju Ahammed - AI Full-Stack Web Developer" />
+</p>
+
+
 
 # Hi 👋, I'm Md. Raju Ahammed  
 ### 🔭 AI Full-Stack Web Developer
