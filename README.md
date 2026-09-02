@@ -8,7 +8,9 @@
 
 <h1 align="center">Hi 👋, I'm Md. Raju Ahammed</h1>
 
-<h3 align="center"> AI Full-Stack Web Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=AI+Full-Stack+Web+Developer;Building+Modern+Web+Applications;Learning+AI+%26+Full-Stack+Development" alt="Typing SVG" />
+</p>
 
 
 ## 👨‍💻 About Me  
