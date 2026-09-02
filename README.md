@@ -24,15 +24,8 @@ I'm currently focused on **AI-driven Full-Stack Web Development**, building my s
 
 ---
 
-## 🚀 Current Activities
 
-* 🔭 I'm currently working on **full-stack web development projects**.
-* 🌱 I'm exploring **Next.js and modern React development**.
-* 💻 I'm practicing **TypeScript** to write more reliable and maintainable applications.
-* 🤖 I'm interested in combining **AI with modern web applications**.
-* 📖 I'm continuously learning new technologies and improving my coding skills.
 
----
 ## 🛠️ Tech Stack  
 
 ### **Frontend**
