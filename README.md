@@ -60,4 +60,4 @@
 
 <p align="center"> <i>Build • Learn • Break • Fix • Repeat</i> </p>
 
-<p align="center"> ⭐ Thanks for visiting my profile! ⭐ </p>
+
