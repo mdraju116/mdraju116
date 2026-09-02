@@ -1,12 +1,13 @@
-# 👋 Hi, I'm Md Raju
 
-### 💻 AI Full-Stack Web Developer
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Md%20Raju&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Full-Stack%20Web%20Developer&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Md%20Raju%20Ahammed&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Full-Stack%20Web%20Developer&descAlignY=55&descSize=20" width="100%" />
 </p>
 
 ---
+# 👋 Hi, I'm Md. Raju Ahammed
+
+
 
 ## 👨‍💻 About Me
 
@@ -32,102 +33,47 @@ I'm currently focused on **AI-driven Full-Stack Web Development**, building my s
 * 📖 I'm continuously learning new technologies and improving my coding skills.
 
 ---
+## 🛠️ Tech Stack  
 
-## 🛠️ Skills
+### **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
 
-<p align="center">
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML5"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS3"/>
-</a>
-
-<a href="https://tailwindcss.com/">
-<img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="Tailwind CSS"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=javascript" width="50" alt="JavaScript"/>
-</a>
-
-<a href="https://www.typescriptlang.org/">
-<img src="https://skillicons.dev/icons?i=typescript" width="50" alt="TypeScript"/>
-</a>
-
-<a href="https://react.dev/">
-<img src="https://skillicons.dev/icons?i=react" width="50" alt="React"/>
-</a>
-
-<a href="https://nextjs.org/">
-<img src="https://skillicons.dev/icons?i=nextjs" width="50" alt="Next.js"/>
-</a>
-
-<a href="https://nodejs.org/">
-<img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js"/>
-</a>
-
-<a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/>
-</a>
-
-<a href="https://www.mongodb.com/">
-<img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB"/>
-</a>
-
-<a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git" width="50" alt="Git"/>
-</a>
-
-<a href="https://github.com/">
-<img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/>
-</a>
-
-</p>
+### **Tools & Others**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me  
 
-<p align="center">
-
-<a href="https://github.com/mdraju116">
-  <img src="https://img.shields.io/badge/GitHub-mdraju116-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/mdraju980/">
-  <img src="https://img.shields.io/badge/LinkedIn-Md%20Raju-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:email@example.com)
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdraju116&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdraju116&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mdraju116&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+| GitHub Stats | Most Used Languages |
+| :---: | :---: |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
 
 ---
 
-## 📈 GitHub Contribution
+![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdraju116&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</p>
 
----
 
 ## 💡 Quote
 
