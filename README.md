@@ -6,14 +6,10 @@
 ### 🔭 AI Full-Stack Web Developer
 
 
-I'm a Computer Science and Engineering graduate from Dhaka University of Engineering & Technology (DUET) with a strong passion for software development.
-
-I'm currently focused on AI-driven Full-Stack Web Development, building modern web applications and continuously improving my skills in frontend, backend, and AI-powered technologies.
-
 ## 👨‍💻 About Me  
 
-- 🎓 CSE Graduate from Dhaka University of Engineering & Technology (DUET)
-- 💻 Currently learning AI Full-Stack Web Development
+- 🎓 CSE Graduate from DUET
+- 💻 Learning AI Full-Stack Web Development
 - 🌱 Exploring React, TypeScript, Node.js, and Next.js
 - 🚀 Building responsive and user-friendly web applications
 - 📚 Continuously improving my programming and problem-solving skills
@@ -41,7 +37,7 @@ I'm currently focused on AI-driven Full-Stack Web Development, building modern w
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
----
+
 
 ## 🌐 Connect With Me  
 
@@ -49,7 +45,7 @@ I'm currently focused on AI-driven Full-Stack Web Development, building modern w
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/mdraju_116)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:raju204116@gmail.com)
 
----
+
 
 ## 📊 GitHub Stats
 
