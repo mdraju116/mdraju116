@@ -51,6 +51,7 @@
 ### **Backend & Authentication**
 ![Node.js](https://img.shields.io/badge/Node.js-1F5132?style=for-the-badge&logo=node.js&logoColor=68A063)
 ![Express.js](https://img.shields.io/badge/Express.js-333333?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-6B4FBB?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Better Auth](https://img.shields.io/badge/Better_Auth-334155?style=for-the-badge&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-087E8B?style=for-the-badge)
